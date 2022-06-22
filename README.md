@@ -1,5 +1,5 @@
-# flutter_Online_Course_App_UI
- Hello Guys! in this project i taked an UI Design as an example to make a flutter project. this project is the first part for figma to flutter...
+# Online Course App UI
+ ***Hello Guys! in this project i taked an UI Design as an example to make a flutter project. this project is the first part for figma to flutter...***
  
  
  
